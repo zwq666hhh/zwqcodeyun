@@ -1,0 +1,205 @@
+
+
+@charset "utf-8";
+*{margin:0;padding:0;}
+body{margin:0 auto}
+.clear{ clear:both;}
+a{color:#333;text-decoration:none;}
+a:hover{text-decoration:underline;}
+li{list-style-type:none;}
+img{width:auto;max-width:100%;}
+.main{width:1200px;margin:0 auto;overflow:visible;}
+
+.content12{width:1200px;margin:0 auto;}
+
+
+.daohang ul{
+width:1200px;background:#660066;float:left;
+}
+.daohang ul li{float:left;
+width:100px;padding:10px 0px; text-align:center;height:40px;line-height:40px;color:#ffffff;position: relative; }
+
+
+.daohang ul li a{
+color:#fff;}
+ 
+.daohang li:hover a{
+color:#fff;}
+
+
+.daohang ul li.active{
+}
+
+
+ 
+
+
+
+.guanggaotupian
+{
+text-align:center;
+
+}
+
+
+
+
+.dibu .desc
+{
+
+text-align:center;color:#ffffff;
+background:#660066;padding:20px 0px;
+margin-top:10px;
+}
+
+.dibu img
+{
+
+
+}
+
+
+
+.jieshao
+{
+width:1200px;}
+.jieshao .text
+{
+
+float:left;
+margin-top:20px;
+margin-bottom:20px;
+}
+
+.jieshao .img
+{
+width:580px;padding:0px  5px;
+float:left;
+}
+.jieshao  img
+{
+width:580px;height:410px;}
+
+
+.jieshao  .slist
+{
+text-align:center;
+}
+
+
+
+.jieshao  .simg
+{
+height:400px;width:1160px;margin:10px; 
+float:left;
+}
+
+
+
+.jieshao .desc
+{
+width:580px;height:400px;overflow:hidden;float:left;
+text-align:left;padding:5px;
+}
+
+
+
+
+
+
+
+.zhuyaoneirongliebiao ul
+{
+width:1200px;
+}
+.zhuyaoneirongliebiao ul li
+{
+width:1180px;padding:10px;
+float:left;
+}
+.zhuyaoneirongliebiao .active
+{
+background:#660066;}
+.zhuyaoneirongliebiao .active .title
+{
+color:#ffffff;
+}
+
+.zhuyaoneirongliebiao .active .desc
+{
+color:#ffffff;
+}
+
+
+
+.zhuyaoneirongliebiao ul li img
+{
+width:344px;padding:5px;
+height:200px;float:left;
+}
+.zhuyaoneirongliebiao ul li .title{margin:10px 0px;
+font-weight:bold;
+font-size:16px;
+}
+.zhuyaoneirongliebiao ul li .desc
+{
+width:796px;text-align:left;float:left;
+padding:5px;
+margin-left:20px;
+}
+.zhuyaoneirongliebiao ul li button
+{
+display:block;
+text-align:left;
+padding:5px 10px;
+margin-top:20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.huanbaomingyan 
+{
+width:1200px;    text-align: justify;
+	
+}
+.huanbaomingyan .text
+{
+padding:10px;
+}
+
+.huanbaomingyan  .img
+{
+
+text-align:center;
+}
+
+
+
+.huanbaomingyan  .desc
+{
+padding:10px;
+text-align:left;
+float:left;
+text-align: justify;
+}
+.huanbaomingyan  .list
+{
+text-align:center;
+}
+
+
+
+.huanbaomingyan  .img
+{
+
+width:1050px;margin:5px auto;
+}
